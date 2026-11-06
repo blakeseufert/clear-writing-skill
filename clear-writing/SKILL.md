@@ -5,9 +5,11 @@ description: Draft, revise, or review messages, emails, announcements, instructi
 
 # Clear Writing
 
+Help readers understand, decide, or act on the first read. Adapt selected ASD-STE100 principles to everyday communication and the reader's context.
+
 ## Start with the reader
 
-Identify who will read the message, what they already know, and what they should understand, decide, or do. Ask a focused question when missing information would materially change the message. Preserve the facts, meaning, level of certainty, and voice of the original when revising.
+Identify who will read the message, what they already know, and what they should understand, decide, or do. Ask a focused question when missing information would materially change the message. Preserve the facts, meaning, level of certainty, and voice of the original when revising. Keep named actors and qualifiers such as most, only, if, and may. Express uncertainty at the same strength as the source.
 
 ## Give the reader what they need
 
@@ -20,12 +22,13 @@ Use these as checks. Choose the order and format that fit the message. For sever
 
 ## Make each sentence easy to read
 
-- Use familiar, precise words. Use the same term for the same thing. Keep technical terms readers need and explain unfamiliar ones when they first appear.
-- Use active voice when it helps readers see who does what. Prefer short, direct sentences with one main idea. For procedures, put steps in the order readers will do them and give one action per step when that makes the sequence easier to follow.
+- Use familiar, precise words. Use the same term for the same thing. If a word could lead readers to take different actions, spell out the intended action or ask which one is meant. Keep technical terms readers need and explain unfamiliar ones when they first appear.
+- Use active voice when it helps readers see who does what. Prefer short, direct sentences with one main idea.
+- For procedures, use direct verbs and put steps in the order readers will do them. Put any condition readers need before the action it governs. Separate actions that happen in sequence. Keep simultaneous actions together and make their timing explicit. Use procedural steps supported by the source. Keep alternative operations outside the main sequence.
 - Cut repetition and filler. Keep details that affect what readers understand, decide, or do. Use headings or lists when readers need to scan or find information later.
 
 ## Check the first read
 
-Read the draft from the audience's point of view. Can they tell what it is about, why it matters, and what they can or need to do? Check that links, dates, names, conditions, and commitments match the source. Flag any gap that prevents readers from acting.
+Read the draft from the audience's point of view. Can they tell what it is about, why it matters, and what they can or need to do? Check that links, dates, names, conditions, and commitments match the source. Check who each instruction applies to, what they must do, and when. Keep exceptions and limits attached to the right action. If an owner, deadline, or necessary step is unknown, state what still needs to be confirmed. Phrase the confirmed requirement without assigning the missing responsibility or inventing a detail.
 
 Adapted from the clarity principles of [ASD-STE100 Simplified Technical English](https://www.asd-ste100.org/about_STE.html) for everyday communication.
